@@ -1,4 +1,3 @@
-# My Awesome Book
+# GitHub in the classroom
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
-
+This booklet is intended as a short guide to setting up and using GitHub as a tool for handling exercises and projects.
